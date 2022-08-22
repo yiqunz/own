@@ -1,4 +1,4 @@
-package com.iclazz.something.leetcode;
+package com.iclazz.something.leetcode.easy;
 
 /**
  * Write a function to find the longest common prefix string amongst an array of strings.

@@ -1,4 +1,4 @@
-package com.iclazz.something.leetcode;
+package com.iclazz.something.leetcode.easy;
 
 import com.iclazz.something.common.ListNode;
 
