@@ -1,4 +1,4 @@
-package com.iclazz.something.leetcode.meduim;
+package com.iclazz.something.leetcode.medium;
 
 /**
  * ugly number
